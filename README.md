@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐾 **Petshop Pet-Dev** 🐶🐱
 
-## Getting Started
+**Petshop Pet-Dev** é um projeto desenvolvido para simular um site de e-commerce de produtos para pets, utilizando o framework **Next.js**. O objetivo é fornecer uma plataforma simples, rápida e moderna para a venda de itens para pets, com funcionalidades como a listagem de produtos e uma interface amigável para o usuário.
 
-First, run the development server:
+## 🚀 Tecnologias Usadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js**: Framework React para construção de aplicações web, utilizado para gerar páginas de forma otimizada.
+- **React**: Biblioteca JavaScript para criação de interfaces de usuário dinâmicas.
+- **Tailwind CSS**: Framework de CSS utilitário para estilização rápida e responsiva.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
+- **AOS (Animate on Scroll)**: Biblioteca para animações de elementos ao rolar a página.
+- **Phosphor Icons & Lucide React**: Conjuntos de ícones vetoriais para uso no design.
+- **Embla Carousel**: Biblioteca para criação de carrosséis interativos e responsivos.
+- **Radix UI**: Biblioteca para componentes acessíveis e descomplicados.
+- **clsx**: Biblioteca para adicionar condicionalmente classes CSS.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Como Rodar o Projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 📋 Requisitos
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Node.js** (recomendado a versão 16 ou superior)
+- **NPM** ou **Yarn** (gerenciadores de pacotes)
 
-## Learn More
+### ⚡ Passos para rodar o projeto localmente
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone este repositório:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   git clone https://github.com/Schran12/Pet-Dev.git
